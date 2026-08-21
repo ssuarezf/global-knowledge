@@ -1,0 +1,12 @@
+{
+  "knowledge": [
+    "En anillos de compromiso, la estructura CATEDRAL aporta mas altura y brillo visual al centro.",
+    "Para alianzas de uso diario prefiere perfil COMFORT o HALF_ROUND: mas comodas y menos rozaduras.",
+    "El platino 950 (PLAT_950) es hipoalergenico y ideal para pieles sensibles; el oro 18k es mas brillante.",
+    "Garras (chatones) de 6 dan buen aseguramiento a brillantes; 4 garras para piedras pequenas menos oculta metal.",
+    "Para impresion 3D en resina calcinable (BlueCast/Siraya) la malla debe quedar hermetica (watertight) y sin caras invertidas.",
+    "El grosor minimo de pared en anillos finos es ~1.2 mm para evitar roturas en microfusion.",
+    "Sortijas tipo BYPASS requieren simetria en los brazos para que la gema central quede centrada.",
+    "El peso en oro 18k se estima como volumen_cm3 * 15.58 g/cm3; usar siempre para cotizar."
+  ]
+}
