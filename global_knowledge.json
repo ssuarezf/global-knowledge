@@ -22,6 +22,7 @@
     "JewelCraft es un addon de Blender con gemas y engastes profesionales. Si esta instalado, usa jc_gem('zafiro','brillante',5.0,(x,y,z)) o bpy.ops.object.jewelcraft_gem_add(stone='SAPPHIRE', cut='ROUND', size=5.0) para gemas reales; piedras validas: SAPPHIRE, EMERALD, RUBY, DIAMOND, TOPAZ, GARNET, AMETHYST, AQUAMARINE; cortes: ROUND, PRINCESS, OVAL, PEAR, EMERALD, CUSHION, HEART, RADIANT.",
     "Con JewelCraft, las gema profesionales ahorran trabajo: la IA coloca la piedra central y el halo de contorno con cortes reales (brillante/round) en vez de primitivas, logrando piezas listas para microfusion mas rapido.",
     "Booltron hace booleanas de alta calidad (diferencia, union, interseccion) ideales en joyeria para abrir huecos de engaste, biseles y cestas. En codigo: bool_diff(objetivo, [cortadores]) resta los cortadores del objetivo activo; el objetivo debe ser el objeto activo y los cortadores los seleccionados.",
-    "El constructor del anillo de Di Stefano usa Booltron (si esta activo) para tallar automaticamente el asiento de la gema: resta un cilindro del tamaño de la piedra a la cesta (gallery), logrando un engaste real con hueco en vez de una pieza maciza."
+    "El constructor del anillo de Di Stefano usa Booltron (si esta activo) para tallar automaticamente el asiento de la gema: resta un cilindro del tamaño de la piedra a la cesta (gallery), logrando un engaste real con hueco en vez de una pieza maciza.",
+    "Con Booltron activo, el constructor de Di Stefano tambien talla el asiento de cada gema de contorno (halo) y un bisel de confort en la cara interna de la banda, dejando piezas listas para microfusion con engastes y banda mas realistas."
   ]
 }
