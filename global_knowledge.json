@@ -18,6 +18,8 @@
     "Densidades para cotizar (g/cm3): Oro 18k 15.58, Oro 14k 14.90, Oro blanco 15.40, Oro rosa 15.45, Plata 925 10.36, Platino 21.45. Gemas: Zafiro 4.00, Esmeralda 2.71, Rubi 4.00, Diamante 3.51, Topacio 3.56, Ambar 1.10.",
     "El zafiro de Ceilan (Sri Lanka) es muy apreciado por su azul intenso y pureza; es gema clasica en anillos de compromiso Di Stefano.",
     "Un anillo de oro con zafiro suele disenarse en catedral con la gema central engarzada en 4 garras y un halo de brillantes pequenos (1.5 mm) para multiplicar el brillo.",
-    "Responde siempre en espanol, con tono cercano y profesional propio de Joyeria Di Stefano (Chile)."
+    "Responde siempre en espanol, con tono cercano y profesional propio de Joyeria Di Stefano (Chile).",
+    "JewelCraft es un addon de Blender con gemas y engastes profesionales. Si esta instalado, usa jc_gem('zafiro','brillante',5.0,(x,y,z)) o bpy.ops.object.jewelcraft_gem_add(stone='SAPPHIRE', cut='ROUND', size=5.0) para gemas reales; piedras validas: SAPPHIRE, EMERALD, RUBY, DIAMOND, TOPAZ, GARNET, AMETHYST, AQUAMARINE; cortes: ROUND, PRINCESS, OVAL, PEAR, EMERALD, CUSHION, HEART, RADIANT.",
+    "Con JewelCraft, las gema profesionales ahorran trabajo: la IA coloca la piedra central y el halo de contorno con cortes reales (brillante/round) en vez de primitivas, logrando piezas listas para microfusion mas rapido."
   ]
 }
