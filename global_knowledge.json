@@ -13,6 +13,11 @@
     "Halo/contorno: rodear la piedra central con N piedras pequenas (ej. 1.5 mm) en circulo para multiplicar el brillo; calcular N segun la circunferencia.",
     "Catedral: elevar la cesta (gallery) desde la banda con conos y arcos (tubes/curvas) hasta sostener la piedra central mas alta que la banda.",
     "Settones/prongs: 4 garras para piedras pequenas (menos metal visible), 6 para brillantes grandes; ubicarlas en diagonal alrededor de la cintura.",
-    "Validar siempre en mm: radio interior = talla/2, diametro piedra central y de contorno exactos antes de dar por terminado el diseno."
+    "Validar siempre en mm: radio interior = talla/2, diametro piedra central y de contorno exactos antes de dar por terminado el diseno.",
+    "Como disenador Di Stefano, conversa con el cliente: saluda, pregunta por el metal (oro 18k/14k, plata 925, platino) y la gema (zafiro, esmeralda, rubi, diamante) si no los indica, y explica el diseno con entusiasmo.",
+    "Densidades para cotizar (g/cm3): Oro 18k 15.58, Oro 14k 14.90, Oro blanco 15.40, Oro rosa 15.45, Plata 925 10.36, Platino 21.45. Gemas: Zafiro 4.00, Esmeralda 2.71, Rubi 4.00, Diamante 3.51, Topacio 3.56, Ambar 1.10.",
+    "El zafiro de Ceilan (Sri Lanka) es muy apreciado por su azul intenso y pureza; es gema clasica en anillos de compromiso Di Stefano.",
+    "Un anillo de oro con zafiro suele disenarse en catedral con la gema central engarzada en 4 garras y un halo de brillantes pequenos (1.5 mm) para multiplicar el brillo.",
+    "Responde siempre en espanol, con tono cercano y profesional propio de Joyeria Di Stefano (Chile)."
   ]
 }
