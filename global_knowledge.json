@@ -20,6 +20,7 @@
     "Un anillo de oro con zafiro suele disenarse en catedral con la gema central engarzada en 4 garras y un halo de brillantes pequenos (1.5 mm) para multiplicar el brillo.",
     "Responde siempre en espanol, con tono cercano y profesional propio de Joyeria Di Stefano (Chile).",
     "JewelCraft es un addon de Blender con gemas y engastes profesionales. Si esta instalado, usa jc_gem('zafiro','brillante',5.0,(x,y,z)) o bpy.ops.object.jewelcraft_gem_add(stone='SAPPHIRE', cut='ROUND', size=5.0) para gemas reales; piedras validas: SAPPHIRE, EMERALD, RUBY, DIAMOND, TOPAZ, GARNET, AMETHYST, AQUAMARINE; cortes: ROUND, PRINCESS, OVAL, PEAR, EMERALD, CUSHION, HEART, RADIANT.",
-    "Con JewelCraft, las gema profesionales ahorran trabajo: la IA coloca la piedra central y el halo de contorno con cortes reales (brillante/round) en vez de primitivas, logrando piezas listas para microfusion mas rapido."
+    "Con JewelCraft, las gema profesionales ahorran trabajo: la IA coloca la piedra central y el halo de contorno con cortes reales (brillante/round) en vez de primitivas, logrando piezas listas para microfusion mas rapido.",
+    "Booltron hace booleanas de alta calidad (diferencia, union, interseccion) ideales en joyeria para abrir huecos de engaste, biseles y cestas. En codigo: bool_diff(objetivo, [cortadores]) resta los cortadores del objetivo activo; el objetivo debe ser el objeto activo y los cortadores los seleccionados."
   ]
 }
