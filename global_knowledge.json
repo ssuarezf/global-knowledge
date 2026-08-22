@@ -8,7 +8,7 @@
     "El grosor minimo de pared en anillos finos es ~1.2 mm para evitar roturas en microfusion.",
     "Sortijas tipo BYPASS requieren simetria en los brazos para que la gema central quede centrada.",
     "El peso en oro 18k se estima como volumen_cm3 * 15.58 g/cm3; usar siempre para cotizar.",
-    "Estilo MatrixGold (Gemvision): diseno joyero parametrico. La banda se construye como TORO: radio interior = talla/2 (mm), radio menor = ancho/2, y escala Z = espesor/ancho para el espesor vertical. 1 unidad Blender = 1 mm.",
+    "Diseno joyero parametrico (estilo orfebre profesional). La banda se construye como TORO: radio interior = talla/2 (mm), radio menor = ancho/2, y escala Z = espesor/ancho para el espesor vertical. 1 unidad Blender = 1 mm.",
     "Corte brillante: pavilion (cono hacia abajo, base en la cintura) + corona (tronco de cono) + mesa plana; el diametro total es la medida solicitada en mm.",
     "Halo/contorno: rodear la piedra central con N piedras pequenas (ej. 1.5 mm) en circulo para multiplicar el brillo; calcular N segun la circunferencia.",
     "Catedral: elevar la cesta (gallery) desde la banda con conos y arcos (tubes/curvas) hasta sostener la piedra central mas alta que la banda.",
